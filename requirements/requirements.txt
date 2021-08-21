@@ -275,7 +275,8 @@ pytz==2019.3
     #   irc
     #   tempora
     #   twilio
-pyyaml==5.3.1
+PyYAML>=5.4
+
     # via
     #   -r requirements.in
     #   ansible-runner
