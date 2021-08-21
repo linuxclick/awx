@@ -302,7 +302,7 @@ requests-oauthlib==1.3.0
     #   kubernetes
     #   msrest
     #   social-auth-core
-rsa==4.0
+rsa>=4.7
     # via google-auth
 ruamel.yaml==0.16.10
     # via openshift
