@@ -76,7 +76,7 @@ defusedxml==0.6.0
     #   social-auth-core
 dictdiffer==0.8.1
     # via openshift
-django==2.2.11
+django>=2.2.24
     # via
     #   -r requirements.in
     #   channels
