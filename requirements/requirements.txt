@@ -116,7 +116,7 @@ django-split-settings==1.0.0
     # via -r requirements.in
 django-taggit==1.2.0
     # via -r requirements.in
-djangorestframework==3.11.0
+djangorestframework>=3.11.2
     # via -r requirements.in
 djangorestframework-yaml==1.0.3
     # via -r requirements.in
