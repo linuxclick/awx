@@ -308,7 +308,8 @@ pbr==5.4.4
     #   openstacksdk
     #   os-service-types
     #   stevedore
-psutil==5.4.3
+psutil>=5.6.6
+
     # via -r requirements_ansible.in
 pyasn1==0.4.8
     # via
