@@ -191,8 +191,7 @@ iso8601==0.1.12
     #   openstacksdk
 isodate==0.6.0
     # via msrest
-jinja2>=2.11.3
-
+jinja2==2.10.1
     # via
     #   -r requirements_ansible.in
     #   openshift
@@ -309,8 +308,7 @@ pbr==5.4.4
     #   openstacksdk
     #   os-service-types
     #   stevedore
-psutil>=5.6.6
-
+psutil==5.4.3
     # via -r requirements_ansible.in
 pyasn1==0.4.8
     # via
@@ -428,8 +426,7 @@ tabulate==0.8.2
     # via
     #   azure-cli-core
     #   knack
-urllib3>=1.26.5
-
+urllib3==1.25.11
     # via
     #   botocore
     #   kubernetes
@@ -442,7 +439,7 @@ xmltodict==0.12.0
     # via pywinrm
 
 # The following packages are considered to be unsafe in a requirements file:
-pip==19.3.1
+pip==21.1
     # via
     #   -r requirements_ansible.in
     #   azure-cli-core
