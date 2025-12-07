@@ -428,7 +428,7 @@ tabulate==0.8.2
     # via
     #   azure-cli-core
     #   knack
-urllib3>=1.26.5
+urllib3>=2.6.0
 
     # via
     #   botocore
