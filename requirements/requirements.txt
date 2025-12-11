@@ -362,7 +362,7 @@ twisted[tls]==20.3.0
     #   daphne
 txaio==21.2.1
     # via autobahn
-urllib3>=1.26.5
+urllib3>=2.6.0
 
     # via
     #   kubernetes
