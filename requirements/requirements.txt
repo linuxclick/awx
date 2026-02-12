@@ -57,7 +57,7 @@ chardet==3.0.4
     #   requests
 constantly==15.1.0
     # via twisted
-cryptography==3.4.7
+cryptography==46.0.5
     # via
     #   adal
     #   autobahn
