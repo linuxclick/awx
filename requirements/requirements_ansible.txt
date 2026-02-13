@@ -158,7 +158,7 @@ colorama==0.4.3
     # via
     #   azure-cli-core
     #   knack
-cryptography==3.3.2
+cryptography==46.0.5
     # via
     #   adal
     #   azure-keyvault
